@@ -33,6 +33,7 @@ table.custom-table {
     margin-right: auto;
     font-size: 15px;
     width: 90%;
+    box-shadow: 5px 10px #88888833;
 }
 
 .custom-table {
